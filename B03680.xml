@@ -1,0 +1,463 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A detection of the shiprwrights new tricks in combination with Captain Ely, against lead-sheathing. Practis'd upon the trumbal-gally in Mr. Wells's dock, Aug. 31. MDCXCIX. Also an account of the lead sheathing upon the Weedaw. Together with a new publication of the charge thereof, at 12 d. a foot.</title>
+            <author>T. H. (Thomas Hale)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03680</idno>
+            <idno type="STC">Wing H265A</idno>
+            <idno type="STC">ESTC R218190</idno>
+            <idno type="EEBO-CITATION">53981660</idno>
+            <idno type="OCLC">ocm 53981660</idno>
+            <idno type="VID">180242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180242)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2823:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A detection of the shiprwrights new tricks in combination with Captain Ely, against lead-sheathing. Practis'd upon the trumbal-gally in Mr. Wells's dock, Aug. 31. MDCXCIX. Also an account of the lead sheathing upon the Weedaw. Together with a new publication of the charge thereof, at 12 d. a foot.</title>
+                  <author>T. H. (Thomas Hale)</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Septemb. 27. 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas Hale by Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>With marginal notes.</note>
+                  <note>Imperfect: torn with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheet-lead --  England --  Early works to 1800.</term>
+               <term>Shipbuilding --  Materials --  Early works to 1800.</term>
+               <term>Shipbuilding --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:180242:1"/>
+            <head>
+               <hi>A detection</hi> Of the Shipwrights new Tricks in Combination wi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Captain Ely,</hi> againſt LEAD-SHEATHING. <hi>Practis'd upon the</hi> Trumbal-Gally <hi>in Mr.</hi> Wells'<hi>s Dock, Aug.</hi> 31. MDC XCIX.</head>
+            <head type="sub">
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſo an Account of the <hi>Lead-ſheathing</hi> upon the WEEDAW. <hi>Together with a new Publication of the charge thereof. At</hi> 12d. <hi>a foot.</hi>
+            </head>
+            <p>ONe would think the Shipwrigh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> might be content with their profitable Trade of Building and neceſſary Reparation of Ships, wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> continually bring wealth and work enough to them, let their Owners preſerve them as well <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s they can, and Sheath with Lead that will: But 'tis not the bare profit perhaps of Wood <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heathing that makes them ſo obſtinate againſt Evident Truth, tho' that be conſiderable alſo. They who <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive not by the Preſervation, but by the Damage and Decays of Plank and Shipping, which the <hi>Worm</hi> and <hi>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d-ſheathing</hi> do various ways promote, cannot be recon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d to <hi>Lead-ſheathng,</hi> 
+               <note n="†" place="margin">Vide the Papers for<g ref="char:EOLhyphen"/>merly pub<g ref="char:EOLhyphen"/>liſhed, par<g ref="char:EOLhyphen"/>ticularly the Certifi<g ref="char:EOLhyphen"/>ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the 6 Com<g ref="char:EOLhyphen"/>manders that view<g ref="char:EOLhyphen"/>ed the <hi>An<g ref="char:EOLhyphen"/>telope</hi>'s Lead-ſheathing, in preſence of the Na<g ref="char:EOLhyphen"/>vy-Board, aftermen<g ref="char:EOLhyphen"/>tioned.</note> which ('tis fairly prov'd by Reaſon and Experience) does much preſerve them: And there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Shipwrights in combination with one Captain <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly,</hi> formerly a Shipwright alſo, and now the <hi>Engliſh Eaſt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Companies Husband, bend all their force and falſe ſuggeſtions, as the Old o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es are baffled, with new tricks <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ppoſe it, as appear'd more particularly of late upon the <hi>Trumbal Galley.</hi> which (having made one <hi>Eaſt-India</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> age in her Lead-ſheathing, and being taken into the ſaid Company's ſervice) was brought into the Dock to fit, and <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> very next day Mr. <hi>Hale,</hi> appointed by Mr. <hi>Whaley</hi> her Owner to meet him about 5 in the afternoon at the Ships ſide, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iew her Sh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>athing to mend what might be <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ami<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; when they were ſtrangely ſurpriz'd to find the Lead-ſheathing <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>lly ſtript off. But to ſatisfie the Owner; they told him, (as he did Mr. <hi>Hale</hi> the next morning) that Captain <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> had brought an Order from the Company, that ſhe muſt be ſheathed with Wood, and diſpatch'd forthwith, which <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſame day, about noon, meeting with ſome of them, who ſigned the Order for fitting her out,) he found to be <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>tively falſe; they never having Order<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d her Lead-ſheathing to be ſtript off, or, if there were cauſe for it, to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>oſe Wood-ſheathing upon him, as they declared to him in Mr. <hi>Hale</hi>'s preſence, at which he ſeemed to be very <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ch concerned that he ſhould be put to ſuch unneceſſary charge.</p>
+            <p>But if his Captain, (who was not preſent at this <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ripping, and who alſo had formerly been a Shipwright) was <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ſenting or co<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iving at it, it is ſuppoſed (his Ow<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> having left all things to his ordering, as he ſays) he was <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ly able to pacifie him, when he found how much <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had ſaved him of the uſual charge of the Wood ſheathing, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ch doubtleſs the Shipwrights amongſt them had agreed to allow, be it what it will, rather than this Lead-ſheath<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhould be continued, or a new one put on, as Mr. <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> upon his diſcourſe afterward with Mr. <hi>Whaley,</hi> can give very <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d reaſons to believe. But as for the haſty ſtripping, this nimble operation that could not ſtay one day for a fair <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, ſufficiently declares to all indifferent perſons the concern they lay under, leaſt its excellency ſhould appear, for <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> there been any thing material to complain of, they would certainly have expoſed it to be ſeen by every body.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Sheathing being ſtript, there appeared one place upon the Garble-ſtrake, on the Starboard ſide aba<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, where <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Worm had eaten, which Captain <hi>Ely.</hi> having e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pied, mightily bounced of his diſcovery, till the Owner ſaid he <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> do Mr. <hi>Hale</hi> that right, to tell him that the Lead ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by an accident been rubb'd of in that place at her firſt <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> out of the Dock. But the thing they in<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ed on, that requir'd her ſtripping was, that the ſeams wanted <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> aulking, ſome ſaid they were not well done at firſt, tho' to thoſe that went down with Mr. <hi>Hale,</hi> they ſeemed all <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell; But why new Ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lking here, and not under the Wood-ſheathing above, which was done at the ſame <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>? and as they told the Owner, need not be ſtript theſe 10 years, 'twas readily anſwered, the Lead-ſheathing <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> decay'd the Oakam under it; but be that as it will, ſtripping was reſolv'd on by Captain <hi>Ely,</hi> right or wrong; <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> told her Owner before ſhe was put into the Dock, that the Lead-ſheathing muſt come off, at which he being <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> what moved, ſaid the Ship was his, and he would ſee very good cauſe for it, firſt; but it ſeems it was agreed <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ngſt them, that for that reaſon he ſhould not ſee 't at all. And, let Captain <hi>Ely</hi> deny, or ſay what he will to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> uſe himſelf to his Maſters, for abuſing their Authority, the great Zeal and Concernment he is tranſported with, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſenſeleſs <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) againſt the Lead-ſheathing, relating to this Ship as well as thoſe already gone in the Compa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Service, who would have ſheathed with Lead, if they had been permitted, does ſo much diſcover his great Ignorance <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Prejudice, that no body believes him, nor minds what he ſays, but ſuch as are obliged to comply with his Power <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Office.</p>
+            <p>The <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame Trick was formerly play'd for the better juſtification of ſtripping the <hi>Antelope</hi>'s firſt Lead-ſheathing (all <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a ſudd<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in) to Cau<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k her Seams without acquainting her Commander, Captain <hi>Hammond,</hi> he having ſaid too ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Truths in favour of it; but he affirming to her Owner, Mr. <hi>Sh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pheard,</hi> that the Seams were very good and ſound, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> appointed a ti<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to hear them all together, when Mr. <hi>Hale</hi> producing ſome of the Spun Yarn that lay in her Seams full <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, fr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh and ſtrong as at firſt, the Shipwright was forced to own it to Mr. <hi>Shepheard,</hi> and ſaid, that the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> indeed, were <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and good next the Lead, but that they were rotted from within Board, and not well <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at firſt, which <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> new Caulking, and for that reaſon, as alſo to new drive her Iron-ſpikes, which had been <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from her <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> building, He found it neceſſary to ſtrip her ſheathing, not becauſe 'twas Lead, for had it been a <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> never <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o good, he ſaid, it muſt come off. But if Caulking after one Voyage be made an excuſe for <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>riping, Why do<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they Caulk better at firſt? The true reaſon muſt be, becauſe a Lead-ſheathing is to be brought <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; And if theſe Tricks and Pretences will ſerve, to be ſure a Lead-ſheathing (tho' 'twould laſt as long as the Ship) <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be ſtript every Voyage.</p>
+            <pb n="2" facs="tcp:180242:2"/>
+            <p>If <hi>Owners</hi> will ſtill believe the <hi>Shipwright,</hi> and ſuffer themſelves to be thus impoſed upon, Who can help it? But if their Commander, Maſter, or ſome body elſe that underſtands it, they can truſt, will be conſtantly by, but for 2 or 3 days, and ſee the ſearching and caulking of every Seam, and ſound Oakam driven themſelves, certainly their trouble or expence would be very well recompenced; for (<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his objection being once remov'd) they could have no pretence thus to put the unneceſſary charge of a new ſheathing u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on them. Tho' Mr. <hi>Hale</hi> has ſufficiently cleared this matter about the Seams, as well as other things, in his <hi>An<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elope</hi>'s Evidence, Printed in <hi>May</hi> 1698. Several Monthes before ſhe was new Sheath'd, which ſome of them ſhould <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve <hi>Anſwer'd,</hi> and put his name to it, if they had had any thing to ſay againſt the Truth thereof, while the Ships ſid<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, with her ſeams and ſheathing lay in the Dock to be ſeen by every body, which would eaſily determine the point, and certainly they had done it, under thoſe provocations, if they had had any thing material to ſay againſt it: But they could never anſwer that, nor any other of the Papers, he has been obliged to Print, to vindicate the exce<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lency of his Lead-ſheathing, againſt their many falſe ſuggeſtions, and idle ſtories they had raiſed about it. But the Truth of that Paper appears by the Teſtimony of ſix Experienc'd Maſters, and Commanders of good credit, who in preſence of the Navy-Board, viewed the <hi>Ante<g ref="char:EOLhyphen"/>lope</hi>'s Lead-ſheathing, and the Plank and Seams where it was ſtript, and have juſtified it under their hands among other things, <hi>That (not to mention the known damage of the great Iro<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>-Nails, of the other) they found the Lead-ſheathing did preſerve the Plank better, more cool, ſmooth and ſound and the Oakam longer in the Seams, than a Wood-ſheathing could do, beſides its certain ſecurity againſt the Worm, and great benefit in Sayling,</hi> &amp;c.</p>
+            <p>The <hi>Weedaw</hi> Friggot having made her Voyage in her Lead-ſheathing, to <hi>Guinea,</hi> and the <hi>Weſt-Indies,</hi> was brought into Mr. <hi>Fowl<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>'s Dock at <hi>Lime-houſe,</hi> the <hi>19th.</hi> Inſtant<g ref="char:punc">▪</g> to be fitted out for the ſame Voyage again, where any one may find her ſheathing and ſeams under it, very good and ſound, in reſpect of the ſheathing it ſelf, and no cauſe for ſtripping, ſave only in thoſe places where the Shipwright had mixt Elm Plank with the Oaks, which being doted and rotten, was ſhifted, about a tenth part, which was with little charges new ſheath'd with Lead: But where upon ſearching the Plank was ſound; they found the Seams ſound alſo, and no need of ſtripping the whole ſheathing, as the <hi>Trumball-Galley</hi> was, to new caulk her Seams, pretending the Lead-ſheathing had rotted the Oakam under it, as abovementioned. The Foe had viſited her ſheathing two nights before ſhe came into the Dock, but finding them<g ref="char:EOLhyphen"/>ſelves diſcover'd by the Watch, who was ſet for that purpoſe, after they had torn off about two Foot, they got off to the ſhoar, being purſu'd, they left their Boat and ran away.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> It is newly objected. That tho' what is ſaid of the preference of <hi>Lead-ſheathing</hi> to that of <hi>Wood,</hi> may be true, yet th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing can never do; for <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Shipwrights find they cannot keep it out, they will agree to leave ſome places ſo defective<g ref="char:EOLhyphen"/>ly Caulk'd about the Seams, or Trunnel-holes, <hi>&amp;c.</hi> not diſcovera<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le by the eye, which ſhall ſoon become very Leaky, and then lay the fault upon the Lead-ſheathing. Thus the <hi>Owners</hi> being over perſwaded, or always i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fear of ill Caulking, will be unwilling to venture it, and ſo the Lead-ſheathing will fall; and if Mr. <hi>Hale</hi> wil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> carry it on, he muſt get a Dock of his own.</p>
+            <p>This <hi>ill Caulking</hi> may, by the <hi>Owners</hi> care, and little charge, be prevented by the means abovemention<g ref="char:EOLhyphen"/>ed: <note place="margin">Anſ. 1.</note> Or they may reſerve the Caulkers (which is not the Carpenters) work to themſelves, and imploy thoſe the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can truſt to ſee it well done, unleſs the Shipwright will lay this <hi>Trick</hi> aſide, and undertake for the goodneſs of h<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Seams, that they ſhall laſt (at leaſt) as long under a <hi>Lead</hi> as under a <hi>Wood-ſheathing,</hi> which (it is plain from wh<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is proved by Reaſon and Experience as above) preſerves them better.</p>
+            <p>But if they will not, certainly if <hi>Owners</hi> would but conſult their intereſt alſo, which is very conſid<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rable <note place="margin">2.</note> in this matter, they would not ſuffer their own Reaſon and Profit to be thus invaded by the <hi>Tricks</hi> a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Intereſt of the Shipwrights, to their great charge and damage to their Ships and Sayling; but agree amongſt the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſelves to oblige the Shipwrights, who get their living by them, and vaſt profit otherwiſe, by new Building a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> neceſſary Reparation of their Ships) to permit them quietly to preſerve their Hulls by careful Caulking and Le<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>-ſheathing, or any ways elſe they think fit.</p>
+            <p>As for Mr. <hi>Hales</hi> taking a Dock purpoſely for that Work, there is no need, nor reaſon for that, for if <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <note place="margin">3.</note> Lead-ſheathing be countenanced, it is not to be ſuppoſed, one or two Docks would be ſufficient to diſpatch all <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will ſheath with Lead, many of which may happen at the ſame time. He is indeed off'red by a Shipwright to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a <hi>Hulk</hi> in a convenient place to Careene Ships of any burthen for his Lead-ſheathing, which (as he is infor<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> may be better done, and Caulk'd alſo upon the Careene, than in a Dock. But this Shipwright is afraid to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> till he can receive ſome aſſurance that the Lead-ſheathing will go on, that he may not expoſe himſelf to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and the ill will of his Fraternity for nothing.</p>
+            <p>
+               <hi>Now for the further encouragement of thoſe that ſhall make uſe of this Lead-Sheathing hereafter, altho'</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Antelope'<hi>s Evidence abovementioned, and other Printed Papers, its much greater cheapneſs (as well <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>neſs) is fully proved at the rate of</hi> 14d. <hi>a foot, in reſpect of an</hi> Eaſt-India <hi>Wood-Sheathing, at <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Penny, and even of an ordinary</hi> Streights <hi>Sheathing of</hi> 7d. <hi>a foot, by the graving ſaved, duration <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the Lead wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſtript. Mr.</hi> Hale <hi>hereby propoſes to do it for</hi> 12d. <hi>a foot with the ſame thickneſs of</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 3 l. <hi>to the foot, and the ſame Nailing at 1½ inch diſtance, cloſe driven in the Seams, with the Nails h<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hitherto uſed, approved by long experience everywiſe proper for the work, allowing only for extraordinary <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>neſs of the bottom of the Keel and Cut-water, as that ſhall be required to be done; and for abundant <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion againſt Beats and Lyters, he will Sheath over and between the Wales with Lead a third part <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and double nailing, driving one between each; Provided always, that there be no Wood-ſheathi<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bove, and that the Carpenter or Caulker may have no pretence of buſineſs to do on the ſide he is at work, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hath hitherto by their Spawles, Stages,</hi> &amp;c. <hi>cauſed him great trouble and damage, but that the Ships <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> be prepar'd (by paying, and parcelling the Iron-Work, Spun-Yarn in the Seams, or otherwiſe, as they ſhall <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> fit) ready to bring the Lead-ſheathing on, deſiring only that he may have the uſe of the boards an <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>terials in the Yard, to make his Table for his Plumbers to open and fit his Lead, and for Stages <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nient to bring it on, and a room as near the Ship as may be to lock up his goods till his work be done.</hi>
+            </p>
+            <p>
+               <hi>Or to enforce this Improvement for publick good as well as benefit to thoſe that uſe it, (altho' his Patent b<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in being, yet) if any one thinks he can perform the work of Sheathing cheaper, and as well with Nails of h<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> providing, he is willing to ſell them his Lead at the rates publiſhed, which others pay for Houſes, and <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> purpoſes,</hi> viz. 16 s. <hi>a Hundred, for the thicker ſorts of</hi> 6 l. <hi>to the foot and upwards, and for the th<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſorts</hi> 12 d. <hi>a hundred more for each pound in a foot leſs: Or if they pleaſe to buy their Lead themſe<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and ſend it in to his Mill at</hi> Deptford, <hi>he will Caſt and Mill it for them, and return them</hi> Weight <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Weight in Mill'd Lead, <hi>at</hi> 5 s. <hi>a hundred for the thicker ſorts, and</hi> 12 d. <hi>a hundred for each poun<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> foot thinner as aforeſoid.</hi>
+            </p>
+            <p>Mr. <hi>Hale</hi> lives at the <hi>Mill'd-Lead</hi> ſign in <hi>Orange-ſtreet,</hi> by <hi>Red-Lyon-Square,</hi> who undert<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all Lead Work about Churches, Houſes, <hi>&amp;c.</hi> as well as Sheathing, having Plumbers and <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Workmen to perform the ſame, and ſells his Solder for <hi>6 d.</hi> a pound.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Septemb.</hi> 27. 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
